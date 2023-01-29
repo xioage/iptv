@@ -63,16 +63,10 @@ http://iptv.cooltv.top/tv/aishang.php?id=dnwshd
 http://iptv.cooltv.top/tv/cutv.php?id=sxws2
 #EXTINF:-1 tvg-id="39" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/tianjinweishi.png" group-title="卫视",天津卫视
 http://iptv.cooltv.top/tv/aishang.php?id=tjwshd
-#EXTINF:-1 tvg-id="40" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
-http://iptv.cooltv.top/tv/aishang.php?id=cqws
-#EXTINF:-1 tvg-id="48" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000066/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="56" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/henanweishi.png" group-title="卫视",河南卫视
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
-http://iptv.cooltv.top/tv/aishang.php?id=sxws
 #EXTINF:-1 tvg-id="51" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
@@ -97,12 +91,6 @@ http://iptv.cooltv.top/tv/aishang.php?id=gzwshd
 https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/gansuweishi.png" group-title="卫视",甘肃卫视
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
-http://iptv.cooltv.top/tv/aishang.php?id=xjws
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",内蒙古卫视
-http://iptv.cooltv.top/tv/aishang.php?id=nmws
-#EXTINF:-1 tvg-id="68" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001016000000113818/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",爱上4K
 http://iptv.cooltv.top/tv/aishang.php?id=as4k
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV全球大片
