@@ -1,0 +1,217 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/hunanweishi.png" group-title="卫视",湖南卫视
+http://iptv.cooltv.top/tv/aishang.php?id=hunwshd
+#EXTINF:-1 tvg-id="28" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/zhejiangweishi.png" group-title="卫视",浙江卫视
+http://iptv.cooltv.top/tv/aishang.php?id=zjwshd
+#EXTINF:-1 tvg-id="31" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://iptv.cooltv.top/tv/aishang.php?id=dfwshd
+#EXTINF:-1 tvg-id="29" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://iptv.cooltv.top/tv/aishang.php?id=jswshd
+#EXTINF:-1 tvg-id="30" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://iptv.cooltv.top/tv/aishang.php?id=bjwshd
+#EXTINF:-1 tvg-id="34" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/shenzhenweishi.png" group-title="卫视",深圳卫视
+http://iptv.cooltv.top/tv/aishang.php?id=szwshd
+#EXTINF:-1 tvg-id="38" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/shandongweishi.png" group-title="卫视",山东卫视
+http://iptv.cooltv.top/tv/aishang.php?id=sdwshd
+#EXTINF:-1 tvg-id="33" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+http://iptv.cooltv.top/tv/aishang.php?id=gdwshd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",大湾区卫视
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000021/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="32" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://iptv.cooltv.top/tv/aishang.php?id=ahwshd
+#EXTINF:-1 tvg-id="41" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/dongnanweishi.png" group-title="卫视",东南卫视
+http://iptv.cooltv.top/tv/aishang.php?id=dnwshd
+#EXTINF:-1 tvg-id="54" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
+http://iptv.cooltv.top/tv/cutv.php?id=sxws2
+#EXTINF:-1 tvg-id="39" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/tianjinweishi.png" group-title="卫视",天津卫视
+http://iptv.cooltv.top/tv/aishang.php?id=tjwshd
+#EXTINF:-1 tvg-id="40" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://iptv.cooltv.top/tv/aishang.php?id=cqws
+#EXTINF:-1 tvg-id="48" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000066/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="56" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/henanweishi.png" group-title="卫视",河南卫视
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
+http://iptv.cooltv.top/tv/aishang.php?id=sxws
+#EXTINF:-1 tvg-id="51" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/liaoningweishi.png" group-title="卫视",辽宁卫视
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+http://iptv.cooltv.top/tv/aishang.php?id=hljwshd
+#EXTINF:-1 tvg-id="45" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/hebeiweishi.png" group-title="卫视",河北卫视
+http://iptv.cooltv.top/tv/aishang.php?id=hbwshd
+#EXTINF:-1 tvg-id="37" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/qinghaiweishi.png" group-title="卫视",青海卫视
+http://stream.qhbtv.com/qhws/playlist.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/guizhouweishi.png" group-title="卫视",贵州卫视
+http://iptv.cooltv.top/tv/aishang.php?id=gzwshd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",西藏卫视
+https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/gansuweishi.png" group-title="卫视",甘肃卫视
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
+http://iptv.cooltv.top/tv/aishang.php?id=xjws
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",内蒙古卫视
+http://iptv.cooltv.top/tv/aishang.php?id=nmws
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",三沙卫视
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",海峡卫视
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 tvg-id="61" tvg-name="" tvg-logo="http://ikanpic.kanketv.com/image/live/icon/bingtuan.png" group-title="卫视",兵团卫视
+http://test5.btzx.com.cn/live/xjbtws.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001016000000113818/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="73" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="卫视",中国教育1
+http://iptv.cooltv.top/tv/aishang.php?id=cetv1hd
+#EXTINF:-1 tvg-id="74" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png" group-title="卫视",中国教育2
+http://iptv.cooltv.top/tv/aishang.php?id=cetv2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",中国教育4
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山东教育卫视
+http://iptv.cooltv.top/tv/aishang.php?id=sdjy
+#EXTINF:-1 tvg-id="1988" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视",纪实人文
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1874" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="卫视",北京纪实科教
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="2025" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000039/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="67" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1046" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="卫视",优漫卡通
+http://[2409:8087:5011:1020::1a]/180000001001/00000000000000020000000000182321/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卫视",嘉佳卡通
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001016000000113820/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
+http://iptv.cooltv.top/tv/aishang.php?id=cctv1hd
+#EXTINF:-1 tvg-id="2" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经
+http://iptv.cooltv.top/tv/aishang.php?id=cctv2hd
+#EXTINF:-1 tvg-id="3" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3 综艺
+http://iptv.cooltv.top/tv/aishang.php?id=cctv3hd
+#EXTINF:-1 tvg-id="4" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 中文国际
+http://iptv.cooltv.top/tv/aishang.php?id=cctv4hd
+#EXTINF:-1 tvg-id="5" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育
+http://iptv.cooltv.top/tv/aishang.php?id=cctv5hd
+#EXTINF:-1 tvg-id="6" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+http://iptv.cooltv.top/tv/aishang.php?id=cctv5p
+#EXTINF:-1 tvg-id="7" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 电影
+http://iptv.cooltv.top/tv/aishang.php?id=cctv6hd
+#EXTINF:-1 tvg-id="8" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7 国防军事
+http://iptv.cooltv.top/tv/aishang.php?id=cctv7hd
+#EXTINF:-1 tvg-id="9" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8 电视剧
+http://iptv.cooltv.top/tv/aishang.php?id=cctv8hd
+#EXTINF:-1 tvg-id="10" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9 纪录
+http://iptv.cooltv.top/tv/aishang.php?id=cctv9hd2
+#EXTINF:-1 tvg-id="11" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10 科教
+http://iptv.cooltv.top/tv/aishang.php?id=cctv10hd
+#EXTINF:-1 tvg-id="12" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11 戏曲
+http://iptv.cooltv.top/tv/aishang.php?id=cctv11hd
+#EXTINF:-1 tvg-id="13" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12 社会与法
+http://iptv.cooltv.top/tv/aishang.php?id=cctv12hd
+#EXTINF:-1 tvg-id="14" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 新闻
+http://iptv.cooltv.top/tv/aishang.php?id=cctv13hd
+#EXTINF:-1 tvg-id="15" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14 少儿
+http://iptv.cooltv.top/tv/aishang.php?id=cctv14hd
+#EXTINF:-1 tvg-id="16" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV-15.png" group-title="央视",CCTV-15 音乐
+http://iptv.cooltv.top/tv/aishang.php?id=cctv15hd
+#EXTINF:-1 tvg-id="7249" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+http://iptv.cooltv.top/tv/aishang.php?id=cctv16hd
+#EXTINF:-1 tvg-id="7249" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克4K
+http://iptv.cooltv.top/tv/aishang.php?id=cctv164k
+#EXTINF:-1 tvg-id="17" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业农村
+http://iptv.cooltv.top/tv/aishang.php?id=cctv17hd
+#EXTINF:-1 tvg-id="106" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
+http://iptv.cooltv.top/tv/aishang.php?id=cgtnhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/CGTN纪录.png" group-title="央视",CGTN纪录
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CNC中文
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://spbtv.online/tafiimage_china/list_new/logo/cnc-world-en.png" group-title="央视",CNC英文
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",爱上4K
+http://iptv.cooltv.top/tv/aishang.php?id=as4k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV全球大片
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV华语影院
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV星光影院
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV宝宝动画
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV青春动漫
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV健康养生
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV谍战剧场
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV热门剧场
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",BesTV百变课堂
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="数字",BesTV看天下精选
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="数字",BesTV热门综艺
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="数字",BesTV电竞天堂
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/1905.png" group-title="数字",1905电影网
+http://111.177.34.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC动作电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6241" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC高清电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6246" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC家庭影院
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",东方财经
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227087/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/都市剧场.png" group-title="数字",SiTV都市剧场
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1977" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字",SiTV欢笑剧场
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV动漫秀场
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1976" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="数字",SiTV乐游
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV金色学堂
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV法治天地
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/fztd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1981" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="数字",SiTV生活时尚
+http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1964" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="数字",SiTV劲爆体育
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="7242" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="数字",SiTV魅力足球
+http://183.207.255.188/live/program/live/mlyyhd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV游戏风云
+http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",SiTV七彩戏剧
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",百视TV
+http://iptv.cooltv.top/tv/bestv.php?id=27
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="数字",求索纪录
+http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="数字",求索动物
+http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="数字",求索科学
+http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",求索生活
+http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/中国天气.png" group-title="数字",中国天气
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",新动漫
+http://iptv.cooltv.top/tv/aishang.php?id=xdm
